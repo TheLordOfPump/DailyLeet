@@ -8,6 +8,7 @@ public class d21 {
                     digits[i]++;
                     return digits;
                 }
+
                 digits[i] = 0;
             }
             int[] newDigits = new int[n + 1];
